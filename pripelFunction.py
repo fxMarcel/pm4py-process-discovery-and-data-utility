@@ -52,6 +52,7 @@ def plot_metrics(results, output_path):
     plt.close()
 
 def main():
+    #Hierfür muss wieder ein Ordner mit den Input XES-Dateien vorhanden sein, das Benennungsschema in diesem Fall war 20250414_klein_event_log_epsilon_([0-9.]+)_k_1_anonymized\.xes, sodass Epsilon am Dateinamen erkannt werden kann
     metrics_dir = "Klein"
     anonymized_dir = "PRIPEL_Klein_Input"
     os.makedirs(metrics_dir, exist_ok=True)
