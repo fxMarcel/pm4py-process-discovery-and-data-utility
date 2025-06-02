@@ -8,8 +8,7 @@ The data utility results are visualized using Matplotlib and Seaborn.
 The scripts in this repository perform various process mining operations, including:
 
 - **Process Discovery**: Utilizing algorithms like the Inductive Miner to derive process models from event logs.
-- **Data Utility Analysis**: Assessing the usefulness of data through custom utility functions and sampling techniques.
-- **Visualization**: Employing Matplotlib and Seaborn to create visual representations of process models and statistical analyses.
+- **Data Utility Analysis and Visualization**: Assessing the data utility of anonymized event logs.
 
 Each script is designed to be executed independently, allowing for modular analysis and experimentation.
 
