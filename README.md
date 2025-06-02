@@ -20,7 +20,6 @@ Each script is designed to be executed independently, allowing for modular analy
 - `TLKCFunctionK.py` & `TLKCHeatmap.py`: Analyze and visualize (with TLKC anonymized) event logs and visualize the data utility results with matplot as heatmap / function.
 - `UtilityFunctionNachThreshold.py`: Applies utility functions based on specified thresholds to assess data quality.
 - `inductiveMinerManuell.py`: Manually applies the Inductive Miner algorithm for process discovery.
-- `kleinLogStatsOriginal.py`: Same as LogStatsOriginal.py
 - `pripelFunction.py`: Analyze and visualize (with PRIPEL anonymized) event logs and visualize the data utility results with matplot as function.
 - `requirements.txt`: Lists all Python dependencies required to run the scripts.
 
