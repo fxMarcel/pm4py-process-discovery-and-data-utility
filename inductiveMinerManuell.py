@@ -1,7 +1,6 @@
 import os
 import json
 import pm4py
-from statistics import mean
 from pm4py.objects.log.importer.xes import importer as xes_importer
 from pm4py.algo.discovery.inductive import algorithm as inductive_miner
 from pm4py.algo.discovery.inductive.variants import imf
