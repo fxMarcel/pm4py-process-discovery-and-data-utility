@@ -1,6 +1,6 @@
 # PM4Py Process Discovery and Data Utility
 
-This repository comprises a collection of standalone Python scripts that leverage the [PM4Py](https://pm4py.fit.fraunhofer.de/) library for process discovery and data utility tasks.  
+This repository comprises a collection of standalone Python scripts that leverage the [PM4Py](https://github.com/process-intelligence-solutions/pm4py) library for process discovery and data utility tasks.  
 The data utility results are visualized using Matplotlib and Seaborn.
 
 ## Overview
