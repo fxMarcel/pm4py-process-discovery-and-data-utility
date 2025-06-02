@@ -17,7 +17,7 @@ Each script is designed to be executed independently, allowing for modular analy
 
 - `DFGMatplot.py`: Generates Directly-Follows Graphs (DFGs) and visualizes them using Matplotlib.
 - `DFGToPetri.py`: Converts DFGs into Petri nets.
-- `LogSampling.py`: Performs sampling on event logs to create subsets for testing and validation.
+- `LogSampling.py`: Performs sampling on event logs.
 - `LogStatsOriginal.py`: Computes data utility metrics on the original event logs.
 - `TLKCFunctionK.py` & `TLKCHeatmap.py`: Analyze and visualize (with TLKC anonymized) event logs and visualize the data utility results with matplot as heatmap / function.
 - `UtilityFunctionNachThreshold.py`: Applies utility functions based on specified thresholds to assess data quality.
