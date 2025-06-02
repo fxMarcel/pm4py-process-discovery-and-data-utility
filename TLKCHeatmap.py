@@ -52,6 +52,7 @@ def plot_combined_heatmap(matrices, x_labels, y_labels, output_path):
     plt.close()
 
 def main():
+    #Als Input wird ein Ordner benötigt, indem alle TLKC-Anonymisierten Event Logs mit L[Wert]_K[Wert].xes beschriftet sind
     metrics_dir = "Lasagne"
     anonymized_dir = "TLKC_Lasagne"
     os.makedirs(metrics_dir, exist_ok=True)
