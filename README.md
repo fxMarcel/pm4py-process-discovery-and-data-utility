@@ -23,10 +23,3 @@ Each script is designed to be executed independently, allowing for modular analy
 - `pripelFunction.py`: Analyze and visualize (with PRIPEL anonymized) event logs and visualize the data utility results with matplot as function.
 - `requirements.txt`: Lists all Python dependencies required to run the scripts.
 
-## Installation
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/fxMarcel/pm4py-process-discovery-and-data-utility.git
-   cd pm4py-process-discovery-and-data-utility
